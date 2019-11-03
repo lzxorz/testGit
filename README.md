@@ -1,3 +1,2 @@
 # testGit
-hell 我的
-hello 我的
+练习练习啊。
